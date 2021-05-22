@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## г. Костанай, ОСИ 8 мкрн. д. 24.
 
 You can use the [editor on GitHub](https://github.com/imortkz/osi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
