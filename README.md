@@ -1,37 +1,65 @@
-## г. Костанай, ОСИ 8 мкрн. д. 24.
+# г. Костанай, ОСИ 8 мкрн. д. 24.
 
-You can use the [editor on GitHub](https://github.com/imortkz/osi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Оплата ОСИ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Условия оплаты 
 
-### Markdown
+Оплата производится **до 25 числа текущего месяца**, т.е. оплата ОСИ за май - до 25 мая.
+Установленный тариф: 40 тг. за кв.метр в месяц.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Например:
 
-```markdown
-Syntax highlighted code block
+ - квартира 50 кв.м: 40 тг. * 50 = 2000 тг. в месяц.
+ - квартира 100 кв.м.: 40 тг. * 100 = 4000 тг. в месяц.
 
-# Header 1
-## Header 2
-### Header 3
+Просим вас своевременно оплачивать взносы в ОСИ, от этого зависит возможность содержать наш с вами общий дом.
 
-- Bulleted
-- List
+### Как оплатить
 
-1. Numbered
-2. List
+ - [Мобильное приложение Kaspi](pay_kaspi.md)
+ - [Оплата через Jusan bank](pay_jusan.md)
+ - [Оплата в Halyk bank](pay_halyk.md)
 
-**Bold** and _Italic_ and `Code` text
+### Статьи расходов
 
-[Link](url) and ![Image](src)
+ - обслуживание лифтов (2 * 15 000 тг. в месяц)
+ - услуги технички (50 000 тг. в месяц)
+ - зарплата бухгалтера (15 000)
+ - зарплата председателя ОСИ (15 000)
+ - оплата общедомового электричества (освещение)
+ - прочие расходы (расходные материалы для технички, химия, и т.д.)
+
+ Добавятся услуги сантехника.
+
+## Видеонаблюдение
+
+На данный момент проводится сбор денег на организацию видеонаблюдения в подъездах (1 этаж и лифты).
+
+Собрано 164 100 тг. с 36 квартир. 
+Остались 22 квартиры.
+
+Получены платежи от квартир: 
+```
+1, 4, 5, 7, 8, 10
+17, 18, 
+20, 21, 23, 25, 27, 28,
+30, 31, 35, 36, 37, 39,
+40, 41, 44, 46, 47, 
+52(53), 54, 58, 
+62, 63, 66, 68, 69,
+77, 78, 79
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Подключение газа
 
-### Jekyll Themes
+На подключение газа с каждой квартиры нужно сдать на:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imortkz/osi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Обслуживание газ плиты
+2. Обслуживание газового стоянка (опресовка)
+3. Первичный пуск
+4. Опломбировка
+5. Приёмка
 
-### Support or Contact
+Сумма с каждой квартиры: 6100 тенге, перевод Kaspi на номер +7 775 143 33 03
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+В комментарии к переводу написать: подключение газа, номер квартиры.
